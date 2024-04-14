@@ -28,3 +28,12 @@ replay_pid*
 *.iws
 *.iml
 *.ipr
+
+**/target/
+
+Java
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
